@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+google-generativeai
+google-api-python-client
+google-auth
+google-auth-oauthlib
+faiss-cpu
+tiktoken
+python-dotenv
+unstructured
+PyPDF2
