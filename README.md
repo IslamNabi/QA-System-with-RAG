@@ -45,5 +45,5 @@ A **Question Answering System** powered by **Retrieval-Augmented Generation (RAG
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/QA-System-with-RAG.git
+git clone https://github.com/IslamNabi/QA-System-with-RAG.git
 cd QA-System-with-RAG
