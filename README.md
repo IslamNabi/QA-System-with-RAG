@@ -21,11 +21,12 @@ A **Question Answering System** powered by **Retrieval-Augmented Generation (RAG
 
 > Sample screenshots from the Streamlit GUI.
 
-### 🔹 Home Interface
-![Home](systemImages/gui_1.png)
-
 ### 🔹 Ask a Question
-![Q&A](systemImages/gui_2.png)
+![Q&A](systemImages/QA-RAG-SS.png)
+
+![Q&A](systemImages/QA-RAG-SS2.png)
+
+![Q&A](systemImages/QA-RAG-SS3.png)
 
 ---
 
